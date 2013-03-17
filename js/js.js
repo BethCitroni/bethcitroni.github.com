@@ -1,3 +1,3 @@
 $(function(){
-  console.log("hello and welcome");
+	$('h1').fadeIn();
 });
